@@ -1,1 +1,1 @@
-[text] (https://github.com/Melotea)
+[text](https://github.com/Melotea)
